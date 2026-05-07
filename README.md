@@ -12,7 +12,7 @@ I want to explore the relationship between light, colour, atmosphere, and time t
 
 The mouse position will control the location of the sun, causing the haystack’s shadow, colours, and background atmosphere to gradually change in response to the light position.
 
-![An low-fi diagram](READMEIMAGES/low-fi_Diagram.jpg)
+![An low-fi diagram](READMEIMAGES/Low_Fi_Diagram.jpg)
 
 
 ## Coding Technique Exploration
@@ -22,18 +22,21 @@ I researched coding references for interactive lighting, colour changes, and mos
 
 - **Interactive lighting and shadows:** 
 
-[Link Text](https://ncase.me/sight-and-light/)
+[Sight & Light - 2D visibility and shadow effects](https://ncase.me/sight-and-light/)
+
 The *Sight & Light* tutorial demonstrates how a mouse-controlled light source can create 2D visibility and shadow effects by casting rays and calculating intersections with object edges. This helps me understand how shadows can respond to the position of a light source.
 
 
 - **Sun position and colour changes:**
 
-[Link Text](https://p5js.org/tutorials/conditionals-and-interactivity/)
+[An Interactive Sun - Conditionals and Interactivity](https://p5js.org/tutorials/conditionals-and-interactivity/)
+
 I also looked at examples where the mouse position controls the sun and changes the background colour. This supports the atmosphere shift in my idea.
 
 
 - **Mosaic-based image construction:** 
 
-[Link Text](https://dev.to/andyhaskell/convert-images-to-mosaics-in-p5js-2dlc)
+[Convert images to mosaics in p5.js](https://dev.to/andyhaskell/convert-images-to-mosaics-in-p5js-2dlc)
+
 A mosaic filter can help me construct the haystack through simple geometric blocks instead of realistic details.
 
